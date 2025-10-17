@@ -1,0 +1,9 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pandas==2.2.2
+numpy==1.26.4
+pyreadstat==1.2.6
+pyarrow==16.1.0
+matplotlib==3.8.4
+statsmodels==0.14.2
+python-multipart==0.0.9
